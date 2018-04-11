@@ -1,4 +1,4 @@
-var objects = new object{foo:bar recipes = new Object ({})
+var recipes = new Object ({})
 
 var obj = { prop: 1 }
 function updateObjectWithKeyAndValue(object, key, value) {
